@@ -1,8 +1,8 @@
 # CSA02 – C Programming Assignment 1
 
 ## Student Details
-- **Name:** Your Name
-- **Register Number:** Your Register Number
+- **Name:** B. Sri Vyshnavi 
+- **Register Number:** 192412488
 - **Course:** C Programming (CSA0208)
 - **Compiler:** GCC
 - **Compiler Version:** GCC 16.2.0 (update to your installed version)
